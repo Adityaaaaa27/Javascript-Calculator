@@ -1,0 +1,40 @@
+.container h1 {
+    font-family: 'Rubik Distressed', cursive;
+    font-size: 53px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    margin-top: 23px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 35px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+button {
+    color: white;
+    font-size: 40px;
+    background: rgb(0, 0, 0);
+    width: 105px;
+    height: 75px;
+    margin: 1px;
+    border: 2px solid rgb(38, 38, 134);
+    border-radius: 12px;
+}
+
+.calc{
+    display: inline-block;
+    background: rgba(78, 70, 70, 0.326);
+    padding: 27px;
+    border-radius: 32px;
+}
+
